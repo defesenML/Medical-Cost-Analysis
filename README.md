@@ -23,7 +23,9 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 . charges: Individual medical costs billed by health insurance
 
 Acknowledgements
- The dataset is available here in csv format.
+ 
+ The dataset is available above in csv format.
 
 Inspiration
+
  Can you accurately predict insurance costs?
